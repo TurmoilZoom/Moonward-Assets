@@ -1,0 +1,4 @@
+# 仅 Cloudflare Pages 读取；GitHub Pages 统一缓存 10 分钟。
+# 图标名对应游戏资源名，内容基本不变，客户端本地也会缓存 90 天。
+/genshin/beyond/icons/*
+  Cache-Control: public, max-age=2592000

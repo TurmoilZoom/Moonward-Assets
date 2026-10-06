@@ -1,0 +1,76 @@
+name: 更新数据并发布
+
+on:
+  schedule:
+    # 每周一 03:00 UTC
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# 避免两次运行同时提交、同时发布
+concurrency:
+  group: update-and-deploy
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: 安装依赖
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pngquant
+          pip install -r scripts/requirements.txt
+
+      - name: 生成资源
+        run: python scripts/build_beyond.py
+
+      # 用内置令牌推送的提交不会再触发工作流，所以发布必须放在同一次运行里
+      - name: 提交变更
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A public data
+          if git diff --cached --quiet; then
+            echo "数据无变化"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "chore: 更新资源"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # 定时运行且数据无变化时不重新发布：GitHub Pages 的 ETag 随发布时间变化，重新发布会让客户端白白重新下载
+      - uses: actions/configure-pages@v6
+        if: steps.commit.outputs.changed == 'true' || github.event_name != 'schedule'
+
+      - uses: actions/upload-pages-artifact@v5
+        if: steps.commit.outputs.changed == 'true' || github.event_name != 'schedule'
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    if: needs.build.outputs.changed == 'true' || github.event_name != 'schedule'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5
