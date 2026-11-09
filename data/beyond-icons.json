@@ -35,6 +35,10 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Boy_ArmAcc_S0172": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Boy_ArmAcc_S0181": {
   "source": "hutao",
   "optimized": true
@@ -283,6 +287,10 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Boy_Bottom_S0172": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Boy_Bottom_S0178": {
   "source": "hutao",
   "optimized": true
@@ -404,6 +412,10 @@
   "optimized": true
  },
  "UI_Beyd_Avatar_Boy_Face_P0346": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Boy_Face_P0355": {
   "source": "starward",
   "optimized": true
  },
@@ -543,6 +555,10 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Boy_Hair_S0172": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Boy_Hair_S0194": {
   "source": "hutao",
   "optimized": true
@@ -609,6 +625,10 @@
  },
  "UI_Beyd_Avatar_Boy_Headwear_S0171": {
   "source": "hutao",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Boy_Headwear_S0172": {
+  "source": "starward",
   "optimized": true
  },
  "UI_Beyd_Avatar_Boy_Headwear_S0181": {
@@ -883,6 +903,10 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Boy_Shoe_S0172": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Boy_Shoe_S0178": {
   "source": "hutao",
   "optimized": true
@@ -932,6 +956,10 @@
   "optimized": true
  },
  "UI_Beyd_Avatar_Boy_Suit_S0014": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Boy_Suit_S0015": {
   "source": "starward",
   "optimized": true
  },
@@ -1255,7 +1283,23 @@
   "source": "starward",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Boy_Suit_S0123": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Boy_Suit_S0124": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Boy_Suit_S0125": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Boy_Suit_S0126": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Boy_Suit_S0127": {
   "source": "starward",
   "optimized": true
  },
@@ -1280,6 +1324,10 @@
   "optimized": true
  },
  "UI_Beyd_Avatar_Boy_Suit_S0133": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Boy_Suit_S0134": {
   "source": "starward",
   "optimized": true
  },
@@ -1323,6 +1371,10 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Boy_Suit_S0155": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Boy_Suit_S0156": {
   "source": "starward",
   "optimized": true
@@ -1331,7 +1383,15 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Boy_Suit_S0158": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Boy_Suit_S0160": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Boy_Suit_S0161": {
   "source": "starward",
   "optimized": true
  },
@@ -1359,6 +1419,10 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Boy_Suit_S0172": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Boy_Suit_S0173": {
   "source": "hutao",
   "optimized": true
@@ -1377,6 +1441,10 @@
  },
  "UI_Beyd_Avatar_Boy_Suit_S0177": {
   "source": "hutao",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Boy_Suit_S0179": {
+  "source": "starward",
   "optimized": true
  },
  "UI_Beyd_Avatar_Boy_Suit_S0189": {
@@ -1399,6 +1467,10 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Boy_Suit_S0195": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Boy_Suit_S0196": {
   "source": "hutao",
   "optimized": true
@@ -1413,6 +1485,10 @@
  },
  "UI_Beyd_Avatar_Boy_Suit_S0199": {
   "source": "hutao",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Boy_Suit_S0200": {
+  "source": "starward",
   "optimized": true
  },
  "UI_Beyd_Avatar_Boy_Top_P0002": {
@@ -1711,6 +1787,10 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Boy_Top_S0172": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Boy_Top_S0178": {
   "source": "hutao",
   "optimized": true
@@ -1741,6 +1821,10 @@
  },
  "UI_Beyd_Avatar_Boy_WaistAcc_S0171": {
   "source": "hutao",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Boy_WaistAcc_S0172": {
+  "source": "starward",
   "optimized": true
  },
  "UI_Beyd_Avatar_Girl_ArmAcc_S0044": {
@@ -1775,6 +1859,10 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Girl_ArmAcc_S0172": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Girl_ArmAcc_S0181": {
   "source": "hutao",
   "optimized": true
@@ -1784,6 +1872,10 @@
   "optimized": true
  },
  "UI_Beyd_Avatar_Girl_Backwear_P0296": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Girl_Backwear_P0453": {
   "source": "starward",
   "optimized": true
  },
@@ -2001,6 +2093,10 @@
  },
  "UI_Beyd_Avatar_Girl_Bottom_S0171": {
   "source": "hutao",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Girl_Bottom_S0172": {
+  "source": "starward",
   "optimized": true
  },
  "UI_Beyd_Avatar_Girl_Bottom_S0181": {
@@ -2264,6 +2360,22 @@
   "optimized": true
  },
  "UI_Beyd_Avatar_Girl_Eyebrow_P0345": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Girl_Eyebrow_P0351": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Girl_Eyebrow_P0352": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Girl_Eyebrow_P0353": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Girl_Eyebrow_P0354": {
   "source": "starward",
   "optimized": true
  },
@@ -2587,6 +2699,10 @@
   "source": "starward",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Girl_Face_P0355": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Girl_Face_P0366": {
   "source": "starward",
   "optimized": true
@@ -2700,6 +2816,10 @@
   "optimized": true
  },
  "UI_Beyd_Avatar_Girl_FacialMakeup_P0447": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Girl_FacialMakeup_P0454": {
   "source": "starward",
   "optimized": true
  },
@@ -2831,6 +2951,10 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Girl_Hair_S0172": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Girl_Hair_S0194": {
   "source": "hutao",
   "optimized": true
@@ -2951,6 +3075,10 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Girl_Headwear_S0172": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Girl_Headwear_S0181": {
   "source": "hutao",
   "optimized": true
@@ -3019,6 +3147,10 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Girl_LegAcc_S0172": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Girl_LegAcc_S0178": {
   "source": "hutao",
   "optimized": true
@@ -3060,6 +3192,10 @@
   "optimized": true
  },
  "UI_Beyd_Avatar_Girl_Lipstick_P0032": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Girl_Lipstick_P0358": {
   "source": "starward",
   "optimized": true
  },
@@ -3188,6 +3324,14 @@
   "optimized": true
  },
  "UI_Beyd_Avatar_Girl_Pupil_P0348": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Girl_Pupil_P0356": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Girl_Pupil_P0357": {
   "source": "starward",
   "optimized": true
  },
@@ -3519,6 +3663,10 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Girl_Shoe_S0172": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Girl_Shoe_S0178": {
   "source": "hutao",
   "optimized": true
@@ -3624,6 +3772,10 @@
   "optimized": true
  },
  "UI_Beyd_Avatar_Girl_Suit_S0014": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Girl_Suit_S0015": {
   "source": "starward",
   "optimized": true
  },
@@ -3947,7 +4099,23 @@
   "source": "starward",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Girl_Suit_S0123": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Girl_Suit_S0124": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Girl_Suit_S0125": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Girl_Suit_S0126": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Girl_Suit_S0127": {
   "source": "starward",
   "optimized": true
  },
@@ -3972,6 +4140,10 @@
   "optimized": true
  },
  "UI_Beyd_Avatar_Girl_Suit_S0133": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Girl_Suit_S0134": {
   "source": "starward",
   "optimized": true
  },
@@ -4015,6 +4187,10 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Girl_Suit_S0155": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Girl_Suit_S0156": {
   "source": "starward",
   "optimized": true
@@ -4023,7 +4199,15 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Girl_Suit_S0158": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Girl_Suit_S0160": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Girl_Suit_S0161": {
   "source": "starward",
   "optimized": true
  },
@@ -4051,6 +4235,10 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Girl_Suit_S0172": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Girl_Suit_S0173": {
   "source": "hutao",
   "optimized": true
@@ -4069,6 +4257,10 @@
  },
  "UI_Beyd_Avatar_Girl_Suit_S0177": {
   "source": "hutao",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Girl_Suit_S0179": {
+  "source": "starward",
   "optimized": true
  },
  "UI_Beyd_Avatar_Girl_Suit_S0189": {
@@ -4091,6 +4283,10 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Girl_Suit_S0195": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Girl_Suit_S0196": {
   "source": "hutao",
   "optimized": true
@@ -4105,6 +4301,10 @@
  },
  "UI_Beyd_Avatar_Girl_Suit_S0199": {
   "source": "hutao",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Girl_Suit_S0200": {
+  "source": "starward",
   "optimized": true
  },
  "UI_Beyd_Avatar_Girl_Top_P0001": {
@@ -4403,6 +4603,10 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Girl_Top_S0172": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Girl_Top_S0178": {
   "source": "hutao",
   "optimized": true
@@ -4439,6 +4643,10 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Girl_WaistAcc_S0172": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Optional_Suit_S0001": {
   "source": "hutao",
   "optimized": true
@@ -4456,6 +4664,10 @@
   "optimized": true
  },
  "UI_Beyd_Avatar_Optional_Suit_S0007": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Optional_Suit_S0015": {
   "source": "starward",
   "optimized": true
  },
@@ -4599,11 +4811,23 @@
   "source": "starward",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Optional_Suit_S0123": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Optional_Suit_S0124": {
   "source": "starward",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Optional_Suit_S0127": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Optional_Suit_S0132": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_Avatar_Optional_Suit_S0134": {
   "source": "starward",
   "optimized": true
  },
@@ -4647,6 +4871,10 @@
   "source": "starward",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Optional_Suit_S0161": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Optional_Suit_S0168": {
   "source": "hutao",
   "optimized": true
@@ -4687,6 +4915,10 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Optional_Suit_S0194": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_Avatar_Optional_Suit_S0197": {
   "source": "hutao",
   "optimized": true
@@ -4699,7 +4931,15 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_Beyd_Avatar_Optional_Suit_S0200": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_Beyd_HallThemeIcon_Drxg": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_Beyd_HallThemeIcon_Gjmy": {
   "source": "starward",
   "optimized": true
  },
@@ -5187,6 +5427,10 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_UGC_Emoji_Rare_20": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_UGC_Emoji_S0003_Boy_01": {
   "source": "hutao",
   "optimized": true
@@ -5248,6 +5492,14 @@
   "optimized": true
  },
  "UI_UGC_Emoji_S0122_Girl_01": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_UGC_Emoji_S0126_Boy_01": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_UGC_Emoji_S0126_Girl_01": {
   "source": "starward",
   "optimized": true
  },
@@ -5375,6 +5627,18 @@
   "source": "hutao",
   "optimized": true
  },
+ "UI_UGC_Emoji_SuperRare_30": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_UGC_Emoji_SuperRare_31": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_UGC_Emoji_SuperRare_32": {
+  "source": "starward",
+  "optimized": true
+ },
  "UI_UGC_Transfer_BP_SuperRare_S0003": {
   "source": "hutao",
   "optimized": true
@@ -5404,6 +5668,10 @@
   "optimized": true
  },
  "UI_UGC_Transfer_BP_SuperRare_S0121": {
+  "source": "starward",
+  "optimized": true
+ },
+ "UI_UGC_Transfer_BP_SuperRare_S0126": {
   "source": "starward",
   "optimized": true
  },
